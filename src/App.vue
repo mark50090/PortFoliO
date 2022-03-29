@@ -15,6 +15,7 @@
     <!-- <v-content>
     <router-view/>
   </v-content> -->
+  <router-view/>
   </v-app>
 </template>
 
